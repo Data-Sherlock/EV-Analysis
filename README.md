@@ -28,6 +28,8 @@ Key Quarterly Trends: Analysis of the top-selling companies shows consistent gro
 
 **4 Wheeler Segment**
 
+![4w ev report ](https://github.com/user-attachments/assets/5f7f5bab-2a34-4d96-b1d8-d8c49b8ce9ec)
+
 **Key Points:**
 
 Total Units Sold: 154k
