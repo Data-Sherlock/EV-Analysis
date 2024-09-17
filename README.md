@@ -1,4 +1,4 @@
-**Electric Vehicle Sales & Market Analysis in India (AtliQ Motors)**
+:octocat:**Electric Vehicle Sales & Market Analysis in India (AtliQ Motors)**
 
 **Overview**
 
@@ -14,7 +14,7 @@ The data for this project was provided by AtliQ Motors and cleaned using MySQL W
 
 **2 Wheeler Segment**
 
-Key Points:
+**Key Points:**
 
 Total Units Sold: 2 million
 
@@ -52,7 +52,7 @@ Delhi vs Karnataka Penetration Rates: Delhi (6.98%), Karnataka (7.89%)
 Projected Top Sales in 2030: Chandigarh is expected to reach 94 million units.     
 
 
-**Research Focus**
+:dependabot:**Research Focus**
 
 **Key questions addressed in this project include:**
 
