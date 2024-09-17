@@ -14,6 +14,8 @@ The data for this project was provided by AtliQ Motors and cleaned using MySQL W
 
 **2 Wheeler Segment**
 
+![ev 2 w report](https://github.com/user-attachments/assets/b31664e2-9805-426e-86cb-c3c51a151857)
+
 **Key Points:**
 
 Total Units Sold: 2 million
