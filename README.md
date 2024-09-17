@@ -43,6 +43,8 @@ Key Quarterly Trends: Tata Motors continues to dominate, while premium brands la
 
 **State-wise Market Trends**
 
+![ev state report ](https://github.com/user-attachments/assets/4d61bda7-eca1-4fa0-8c8b-5344be8d19fa)
+
 **Key Points:**
 
 Peak and Low Seasons: March shows the highest sales, while June shows the lowest.
